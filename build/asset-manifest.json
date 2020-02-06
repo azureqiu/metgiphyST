@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/azureqiu/metgiphyST.io/static/css/main.e6184dde.chunk.css",
+    "main.js": "/azureqiu/metgiphyST.io/static/js/main.240e60d6.chunk.js",
+    "main.js.map": "/azureqiu/metgiphyST.io/static/js/main.240e60d6.chunk.js.map",
+    "runtime-main.js": "/azureqiu/metgiphyST.io/static/js/runtime-main.89075d56.js",
+    "runtime-main.js.map": "/azureqiu/metgiphyST.io/static/js/runtime-main.89075d56.js.map",
+    "static/js/2.168f3519.chunk.js": "/azureqiu/metgiphyST.io/static/js/2.168f3519.chunk.js",
+    "static/js/2.168f3519.chunk.js.map": "/azureqiu/metgiphyST.io/static/js/2.168f3519.chunk.js.map",
+    "index.html": "/azureqiu/metgiphyST.io/index.html",
+    "precache-manifest.c2fdf10e48f0ce01108c340107348353.js": "/azureqiu/metgiphyST.io/precache-manifest.c2fdf10e48f0ce01108c340107348353.js",
+    "service-worker.js": "/azureqiu/metgiphyST.io/service-worker.js",
+    "static/css/main.e6184dde.chunk.css.map": "/azureqiu/metgiphyST.io/static/css/main.e6184dde.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89075d56.js",
+    "static/js/2.168f3519.chunk.js",
+    "static/css/main.e6184dde.chunk.css",
+    "static/js/main.240e60d6.chunk.js"
+  ]
+}
